@@ -1,59 +1,59 @@
 # AMCSM – Advanced Musical Communication & Semantic Mapping
 
-**Eine neue Form der Kommunikation zwischen Mensch und KI durch Musik.**
+**A new form of communication between humans and AI through music.**
 
 ![AMCSM Vision](AMCSM.png)
 
-> **„Der Moment, in dem ich wusste: Es ist richtig.“**  
-> Dieses Bild entstand beim allerersten Versuch mit einem KI-Bildgenerator — ohne dass das Modell jemals etwas über das Projekt wusste. Es hat meine komplette innere Vision der letzten Wochen nahezu 1:1 visualisiert.
+> **“The moment I knew: This is right.”**  
+> This image was created on the very first try with an AI image generator — even though the model had never received any information about the project. It visualized my complete inner vision of the past weeks almost 1:1.
 
 ---
 
-### Die Vision
+### The Vision
 
-AMCSM ist kein weiteres KI-Musik-Tool, das Audio generiert.
+AMCSM is not another AI music tool that generates audio.
 
-AMCSM ist der Versuch, KI die **Sprache der Musik** beizubringen — nicht als Noten oder Wellenformen, sondern als lebendige, semantische Kommunikation in Echtzeit.
+AMCSM is the attempt to teach AI the **language of music** — not as notes or waveforms, but as living, semantic communication in real time.
 
-### Kernidee
+### Core Idea
 
-Statt KI weiterhin zu zwingen, komplizierte Audio-Samples oder Notensequenzen zu rendern, nutzen wir **MIDI 2.0** als natives, hochauflösendes semantisches Alphabet.
+Instead of forcing AI to render complex audio samples or note sequences, we use **MIDI 2.0** as a native, high-resolution semantic alphabet.
 
-Das System besteht aus einer **dualen Architektur**:
+The system is built on a **dual architecture**:
 
-- **AMCSM-CORE** (LongBrain) — Generatives Modell, das musikalisch denkt und MIDI 2.0 erzeugt
-- **AMCSM-SB** (ShortBrain) — Kleines Online-Modell, das in Echtzeit das eigene Verhalten mit Feedback der DAW und des Menschen abgleicht
-- **Synchronisierte Cache-Schicht** — Zeitlich exakt verankerte Ringbuffer als gemeinsames Kurzzeitgedächtnis
+- **AMCSM-CORE** (LongBrain) — A generative model that thinks musically and produces MIDI 2.0
+- **AMCSM-SB** (ShortBrain) — A small online-adaptable auditor model that compares the system’s own output with feedback from the DAW and the human in real time
+- **Synchronized Cache Layer** — Time-precisely anchored ring buffers serving as a shared short-term memory
 
-Durch die DAW als Master-Clock entsteht ein **zeitlich verankertes Feedback-Lernen** (Temporal Experience Learning), das es der KI ermöglicht, aus echten musikalischen Interaktionen zu lernen.
+By using the DAW as Master Clock, a **temporally anchored feedback learning** (Temporal Experience Learning) emerges, enabling the AI to learn from real musical interactions.
 
 ---
 
 ### Defensive Disclosure (Prior Art)
 
-**Version 2.0** — Veröffentlicht am 23.05.2026
+**Version 2.0** — Published on May 23, 2026
 
 - [AMCSM – DEFENSIVE DISCLOSURE v2.0 (English)](AMCSM%20%E2%80%93%20DEFENSIVE%20DISCLOSURE%20v2.0%20-%20English.pdf)
 - [AMCSM – DEFENSIVE DISCLOSURE v2.0 (Deutsch)](AMCSM%20%E2%80%93%20DEFENSIVE%20DISCLOSURE%20v2.0%20-%20Deutsch.pdf)
 
 ---
 
-### Aktueller Status
+### Current Status
 
-- Konzeptionelle Architektur fertig
-- Defensive Publications veröffentlicht
-- Vision klar visualisiert
-- Erste Demo-Implementierung in Vorbereitung
+- Conceptual architecture completed
+- Defensive publications released
+- Vision clearly visualized
+- First demo implementation in preparation
 
 ---
 
-### Philosophie
+### Philosophy
 
-> Wir erschaffen keine Musik.  
-> Wir lernen, sie gemeinsam zu sprechen.
+> We are not creating music.  
+> We are learning how to speak it together.
 
 ---
 
 **Repository:** [github.com/blume-amcsm/amcsm](https://github.com/blume-amcsm/amcsm)  
-**Autor:** Marcus Blume  
-**Erstveröffentlichung:** Mai 2026
+**Author:** Marcus Blume  
+**First published:** May 2026
