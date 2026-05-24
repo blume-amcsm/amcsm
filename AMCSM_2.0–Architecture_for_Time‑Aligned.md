@@ -158,7 +158,6 @@ AMCSM 2.0 is not:
 
 It is:
 A dual‑model AI system that structures experience, detects errors, and learns from interaction.
-This establishes a new research direction:
 
 ⭐ Temporal Experience Learning (TEL)
 or
@@ -193,4 +192,4 @@ This creates a system that:
     • learns from interaction.
 
 
-This is not an incremental improvement. It is a new paradigm.
+This is not an incremental improvement. This could be future.
