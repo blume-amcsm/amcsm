@@ -113,7 +113,8 @@ Musikalische Parameter entsprechen strukturell prosodischen Parametern:
 
     Emotion ↔ Prosodische Modulation
 
-Damit wird AMCSM zu einem universellen Ausdrucksmodell, das Musik und Sprache als zwei Dialekte derselben semantischen Struktur versteht
+Damit wird AMCSM zu einem universellen Ausdrucksmodell, das Musik und Sprache 
+als zwei Dialekte derselben semantischen Struktur versteht
 .
 5. Technische Leitlinien
 
@@ -182,7 +183,8 @@ AMCSM ist:
 
     defensiv veröffentlicht (prior art)
 
-Das Projekt soll Freiheit für kreative und wissenschaftliche Arbeit sichern und verhindern, dass grundlegende Ideen privatisiert werden
+Das Projekt soll Freiheit für kreative und wissenschaftliche Arbeit sichern und verhindern, 
+dass grundlegende Ideen privatisiert werden
 .
 8. Schlusswort
 
