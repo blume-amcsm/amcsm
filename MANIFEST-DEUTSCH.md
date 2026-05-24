@@ -114,8 +114,8 @@ Musikalische Parameter entsprechen strukturell prosodischen Parametern:
     Emotion ↔ Prosodische Modulation
 
 Damit wird AMCSM zu einem universellen Ausdrucksmodell, das Musik und Sprache 
-als zwei Dialekte derselben semantischen Struktur versteht
-.
+als zwei Dialekte derselben semantischen Struktur versteht.
+
 5. Technische Leitlinien
 
 5.1 Tokenisierung
@@ -151,8 +151,8 @@ Modelle sollen ihre Fähigkeiten explizit beschreiben können:
 
     Interaktionsmodi
 
-Dies schafft Transparenz und ermöglicht adaptive Kommunikation
-.
+Dies schafft Transparenz und ermöglicht adaptive Kommunikation.
+
 6. Forschungsziele
 
     Definition einer musikalischen Semantik
@@ -184,8 +184,8 @@ AMCSM ist:
     defensiv veröffentlicht (prior art)
 
 Das Projekt soll Freiheit für kreative und wissenschaftliche Arbeit sichern und verhindern, 
-dass grundlegende Ideen privatisiert werden
-.
+dass grundlegende Ideen privatisiert werden.
+
 8. Schlusswort
 
 AMCSM ist ein Versuch, Musik und Stimme als gemeinsame Ausdruckssprache zu verstehen.
