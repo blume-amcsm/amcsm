@@ -155,11 +155,16 @@ Es ist:
 Ein duales KI‑System, das Erfahrung strukturiert, Fehler erkennt und aus Interaktion lernt.
 
 ⭐ Temporal Experience Learning (TEL)
+
 oder
+
 ⭐ Experience‑Aligned Machine Learning (EAML)
+
 oder
+
 ⭐ Dual‑Brain AI Architecture
-Ein Ansatz, der über klassische KI‑Paradigmen hinausgeht.
+
+Ein Ansatz, der über klassische KI hinausgeht.
 
 8. Schlussfolgerung
 
