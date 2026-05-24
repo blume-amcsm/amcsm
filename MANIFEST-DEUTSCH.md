@@ -13,6 +13,7 @@ Dieses Manifest beschreibt die konzeptionellen Grundlagen, die Ziele und die phi
 Es ist kein technisches Dokument, sondern ein Grundlagentext, der die Richtung vorgibt.
 
 2. Grundannahmen
+
 2.1 Musik ist Sprache
 
 Musik besitzt Strukturen, die funktional einer Sprache entsprechen:
@@ -59,6 +60,7 @@ Musik entsteht im Dialog zwischen Akteuren.
 Ein Modell soll nicht „etwas generieren“, sondern antworten, reagieren, ko‑regulieren und bedeuten.
 
 3. Paradigmenwechsel
+
 3.1 Weg vom Generator, hin zum Kommunikator
 
 AMCSM ist kein:
@@ -114,6 +116,7 @@ Musikalische Parameter entsprechen strukturell prosodischen Parametern:
 Damit wird AMCSM zu einem universellen Ausdrucksmodell, das Musik und Sprache als zwei Dialekte derselben semantischen Struktur versteht
 .
 5. Technische Leitlinien
+
 5.1 Tokenisierung
 
 MIDI‑2.0‑Events werden als semantische Tokens verstanden.
