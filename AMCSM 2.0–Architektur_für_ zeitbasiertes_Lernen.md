@@ -153,7 +153,7 @@ AMCSM 2.0 ist nicht:
 
 Es ist:
 Ein duales KI‑System, das Erfahrung strukturiert, Fehler erkennt und aus Interaktion lernt.
-Damit entsteht ein neuer Forschungszweig:
+
 ⭐ Temporal Experience Learning (TEL)
 oder
 ⭐ Experience‑Aligned Machine Learning (EAML)
@@ -185,4 +185,5 @@ Damit entsteht ein System, das:
     • Erfahrung strukturiert,
     • aus Interaktion lernt.
 
-Das ist kein inkrementelles Modell. Das ist ein neues Paradigma.
+Das ist kein inkrementelles Modell. 
+Das könnte die Zukunft werden.
